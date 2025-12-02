@@ -4,9 +4,13 @@
 *Strengthening Academic Engagement through AI-Driven Personalization*
 
 ## Achievements
-- **Rank:** Second best score over 80 teams. (Jury decision pending)
-- **Score:** $R^2$ score of **0.79** on the hackathon's test run.
+- **Rank:** Winner of the Capgemini Best Scientific Approach Award 🏆
+- **Score:** $R^2$ score of **0.79** on the hackathon's test run (2nd best score ex-aequo).
 - **Model Performance:** Achieved ~$0.85$ $R^2$ on internal validation splits.
+
+## Live Demo
+**Try the PersonalLearn prototype here:** 👉 [**PersonalLearn MVP**](https://personal-lean-demo1.vercel.app/)  
+*(Note: Use the demo or simply upload your own courses to see the adaptive content engine in action.)*
 
 ## Overview
 **Problem Statement:** Improving student’s concentration and motivation has become a critical challenge in modern education. Digital distractions, reduced attention spans, stress, personal difficulties, and lack of confidence increasingly prevent students from staying engaged during learning activities. These issues directly affect academic performance, long-term retention, and students’ ability to organize and maintain effective study habits. In a context where teaching methods are evolving but attention span is decreasing, it is essential to develop tools that adapt to learners' cognitive capacities, personalize their study experience, and support them in staying focused and motivated.
@@ -36,7 +40,7 @@ Unlike traditional "one-size-fits-all" methods, PersonalLearn:
 
 
 ## Scientific Approach
-Our solution is built on a robust **XGBoost Regressor** model trained on over 1 million samples from PISA datasets (2015, 2018, 2022).
+Our solution is built on a robust **XGBoost Regressor** model trained on over 1,7 million samples from PISA datasets (2015, 2018, 2022).
 
 ### Key Methodologies:
 1.  **Rigorous Preprocessing:**
@@ -79,6 +83,7 @@ The PISA dataset used in this project is available on Kaggle: [PISA MathScore Pr
     *   Run all cells. Colab will handle the environment setup and library installations.
 
 ## Context
+Developed for **Hi!ckathon 2025** organized by Hi! PARIS Center (HEC Paris & IP Paris).
 For more details on the challenge, visit the [Hi!ckathon website](https://www.hi-paris.fr/hickathon/).
 
 ---
