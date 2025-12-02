@@ -1,5 +1,7 @@
 # PersonalLearn - Team 14
 
+![IMG20251201214551](https://github.com/user-attachments/assets/376c03c0-42d5-48ff-9e18-db9f4e1c3a9d)
+
 **Hi!ckathon 2025 - Hi! PARIS Hackathon**  
 *Strengthening Academic Engagement through AI-Driven Personalization*
 
